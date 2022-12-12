@@ -18,9 +18,6 @@ Take care to use packages within your project as appropriate.
 Consider using MVC in your project so that it can flexibly provide different interfaces as required.
 At least implement SortManager and DisplayManager classes to separate out these basic responsibilities.
 
-#### Block Diagram
-![Block diagram](JavaSortAPPBlockDiagram.png)
-
 #### Driver class
 - [ ] User interface
 - [ ] Create the array of int using user input
